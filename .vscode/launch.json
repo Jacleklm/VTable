@@ -18,6 +18,13 @@
       "args": ["${file}"],
       "console": "integratedTerminal",
       "internalConsoleOptions": "neverOpen"
+    },
+    {
+      "name": "Launch Chrome",
+      "request": "launch",
+      "type": "chrome",
+      "url": "http://localhost:3003/",
+      "webRoot": "${workspaceFolder}"
     }
   ]
 }

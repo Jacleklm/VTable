@@ -199,6 +199,14 @@ export const menus = [
       },
       {
         path: 'pivot',
+        name: 'pivot-sale-tree'
+      },
+      {
+        path: 'pivot',
+        name: 'pivot-sale-tree-agg'
+      },
+      {
+        path: 'pivot',
         name: 'pivot-tree'
       },
       {
