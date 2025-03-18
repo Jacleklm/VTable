@@ -3247,6 +3247,9 @@ export function createTable() {
   const option: VTable.PivotTableConstructorOptions = {
     container: document.getElementById(CONTAINER_ID),
     records,
+    customComputeRowHeight: args => {
+      return 'auto';
+    },
     rowTree: [
       {
         value: '机器人',
@@ -3533,9 +3536,9 @@ export function createTable() {
         title: '图片',
         headerStyle: {
           bgColor: '#fff',
-          textAlign: 'center'
+          textAlign: 'center',
+          lineHeight: 200
         },
-        // imageAutoSizing: true, // 图片原始尺寸
         keepAspectRatio: true,
         headerType: 'image',
         width: 'auto'
@@ -3596,9 +3599,7 @@ export function createTable() {
     hideIndicatorName: true,
     rowHierarchyType: 'tree',
     widthMode: 'autoWidth',
-    rowHierarchyIndent: 20,
-    rowHierarchyTextStartAlignment: true,
-    columnHierarchyType: 'grid'
+    rowHierarchyIndent: 20
   };
   const tableInstance = new PivotTable(option);
 
