@@ -98,7 +98,7 @@ export function createTable() {
     },
     rowExpandLevel: 3,
     widthMode: 'autoWidth',
-    rowHierarchyType: 'grid'
+    rowHierarchyType: 'tree'
   };
   const tableInstance = new PivotTable(option);
 

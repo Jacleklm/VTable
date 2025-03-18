@@ -207,6 +207,14 @@ export const menus = [
       },
       {
         path: 'pivot',
+        name: 'pivot-sale-tree-custom'
+      },
+      {
+        path: 'pivot',
+        name: 'pivot-compare'
+      },
+      {
+        path: 'pivot',
         name: 'pivot-tree'
       },
       {
