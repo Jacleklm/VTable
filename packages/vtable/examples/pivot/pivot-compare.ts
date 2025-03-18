@@ -448,18 +448,6 @@ export const records = [
     is_diff: true
   },
   {
-    '1': '智能功能族',
-    '3': '小基站',
-    '4': '基站',
-    brand: '某石',
-    product: 'P10 Pro',
-    first_pic: imgUrl,
-    release_time: '2023-08-29',
-    first_price: 3999,
-    product_feature: '❌',
-    is_diff: true
-  },
-  {
     '1': '扫地功能族',
     '2': '基站集尘',
     '3': '集尘能力',
@@ -499,19 +487,6 @@ export const records = [
     is_diff: false
   },
   {
-    '1': '扫地功能族',
-    '2': '基站集尘',
-    '3': '集尘紫外线抑菌',
-    '4': '基站',
-    brand: '某石',
-    product: 'P10 Pro',
-    first_pic: imgUrl,
-    release_time: '2023-08-29',
-    first_price: 3999,
-    product_feature: '❌',
-    is_diff: false
-  },
-  {
     '1': '拖地功能族',
     '3': '清水箱容量',
     '4': '基站',
@@ -538,42 +513,6 @@ export const records = [
   {
     '1': '拖地功能族',
     '3': '电解水',
-    '4': '基站',
-    brand: '某石',
-    product: 'P10 Pro',
-    first_pic: imgUrl,
-    release_time: '2023-08-29',
-    first_price: 3999,
-    product_feature: '❌',
-    is_diff: false
-  },
-  {
-    '1': '拖地功能族',
-    '3': '银离子抑菌',
-    '4': '基站',
-    brand: '某石',
-    product: 'P10 Pro',
-    first_pic: imgUrl,
-    release_time: '2023-08-29',
-    first_price: 3999,
-    product_feature: '选配',
-    is_diff: true
-  },
-  {
-    '1': '拖地功能族',
-    '3': '污水箱除臭',
-    '4': '基站',
-    brand: '某石',
-    product: 'P10 Pro',
-    first_pic: imgUrl,
-    release_time: '2023-08-29',
-    first_price: 3999,
-    product_feature: '❌',
-    is_diff: true
-  },
-  {
-    '1': '拖地功能族',
-    '3': '机仓紫外线抑菌',
     '4': '基站',
     brand: '某石',
     product: 'P10 Pro',
@@ -1048,18 +987,6 @@ export const records = [
     is_diff: true
   },
   {
-    '1': '智能功能族',
-    '3': '小基站',
-    '4': '基站',
-    brand: '某石',
-    product: 'P20 Pro',
-    first_pic: imgUrl,
-    release_time: '2024-08-26',
-    first_price: 3999,
-    product_feature: '✅',
-    is_diff: true
-  },
-  {
     '1': '扫地功能族',
     '2': '基站集尘',
     '3': '集尘能力',
@@ -1099,19 +1026,6 @@ export const records = [
     is_diff: false
   },
   {
-    '1': '扫地功能族',
-    '2': '基站集尘',
-    '3': '集尘紫外线抑菌',
-    '4': '基站',
-    brand: '某石',
-    product: 'P20 Pro',
-    first_pic: imgUrl,
-    release_time: '2024-08-26',
-    first_price: 3999,
-    product_feature: '❌',
-    is_diff: false
-  },
-  {
     '1': '拖地功能族',
     '3': '清水箱容量',
     '4': '基站',
@@ -1138,42 +1052,6 @@ export const records = [
   {
     '1': '拖地功能族',
     '3': '电解水',
-    '4': '基站',
-    brand: '某石',
-    product: 'P20 Pro',
-    first_pic: imgUrl,
-    release_time: '2024-08-26',
-    first_price: 3999,
-    product_feature: '❌',
-    is_diff: false
-  },
-  {
-    '1': '拖地功能族',
-    '3': '银离子抑菌',
-    '4': '基站',
-    brand: '某石',
-    product: 'P20 Pro',
-    first_pic: imgUrl,
-    release_time: '2024-08-26',
-    first_price: 3999,
-    product_feature: '选配',
-    is_diff: true
-  },
-  {
-    '1': '拖地功能族',
-    '3': '污水箱除臭',
-    '4': '基站',
-    brand: '某石',
-    product: 'P20 Pro',
-    first_pic: imgUrl,
-    release_time: '2024-08-26',
-    first_price: 3999,
-    product_feature: '标配',
-    is_diff: true
-  },
-  {
-    '1': '拖地功能族',
-    '3': '机仓紫外线抑菌',
     '4': '基站',
     brand: '某石',
     product: 'P20 Pro',
@@ -1648,18 +1526,6 @@ export const records = [
     is_diff: true
   },
   {
-    '1': '智能功能族',
-    '3': '小基站',
-    '4': '基站',
-    brand: '某觅',
-    product: 'S30 Pro Ultra',
-    first_pic: imgUrl,
-    release_time: '2024-02-02',
-    first_price: 4299,
-    product_feature: '✅',
-    is_diff: true
-  },
-  {
     '1': '扫地功能族',
     '2': '基站集尘',
     '3': '集尘能力',
@@ -1699,19 +1565,6 @@ export const records = [
     is_diff: false
   },
   {
-    '1': '扫地功能族',
-    '2': '基站集尘',
-    '3': '集尘紫外线抑菌',
-    '4': '基站',
-    brand: '某觅',
-    product: 'S30 Pro Ultra',
-    first_pic: imgUrl,
-    release_time: '2024-02-02',
-    first_price: 4299,
-    product_feature: '❌',
-    is_diff: false
-  },
-  {
     '1': '拖地功能族',
     '3': '清水箱容量',
     '4': '基站',
@@ -1738,42 +1591,6 @@ export const records = [
   {
     '1': '拖地功能族',
     '3': '电解水',
-    '4': '基站',
-    brand: '某觅',
-    product: 'S30 Pro Ultra',
-    first_pic: imgUrl,
-    release_time: '2024-02-02',
-    first_price: 4299,
-    product_feature: '❌',
-    is_diff: false
-  },
-  {
-    '1': '拖地功能族',
-    '3': '银离子抑菌',
-    '4': '基站',
-    brand: '某觅',
-    product: 'S30 Pro Ultra',
-    first_pic: imgUrl,
-    release_time: '2024-02-02',
-    first_price: 4299,
-    product_feature: '标配',
-    is_diff: true
-  },
-  {
-    '1': '拖地功能族',
-    '3': '污水箱除臭',
-    '4': '基站',
-    brand: '某觅',
-    product: 'S30 Pro Ultra',
-    first_pic: imgUrl,
-    release_time: '2024-02-02',
-    first_price: 4299,
-    product_feature: '❌',
-    is_diff: true
-  },
-  {
-    '1': '拖地功能族',
-    '3': '机仓紫外线抑菌',
     '4': '基站',
     brand: '某觅',
     product: 'S30 Pro Ultra',
@@ -2248,18 +2065,6 @@ export const records = [
     is_diff: true
   },
   {
-    '1': '智能功能族',
-    '3': '小基站',
-    '4': '基站',
-    brand: '某觅',
-    product: 'S40',
-    first_pic: imgUrl,
-    release_time: '2024-05-02',
-    first_price: 4699,
-    product_feature: '❌',
-    is_diff: true
-  },
-  {
     '1': '扫地功能族',
     '2': '基站集尘',
     '3': '集尘能力',
@@ -2299,19 +2104,6 @@ export const records = [
     is_diff: false
   },
   {
-    '1': '扫地功能族',
-    '2': '基站集尘',
-    '3': '集尘紫外线抑菌',
-    '4': '基站',
-    brand: '某觅',
-    product: 'S40',
-    first_pic: imgUrl,
-    release_time: '2024-05-02',
-    first_price: 4699,
-    product_feature: '❌',
-    is_diff: false
-  },
-  {
     '1': '拖地功能族',
     '3': '清水箱容量',
     '4': '基站',
@@ -2338,42 +2130,6 @@ export const records = [
   {
     '1': '拖地功能族',
     '3': '电解水',
-    '4': '基站',
-    brand: '某觅',
-    product: 'S40',
-    first_pic: imgUrl,
-    release_time: '2024-05-02',
-    first_price: 4699,
-    product_feature: '❌',
-    is_diff: false
-  },
-  {
-    '1': '拖地功能族',
-    '3': '银离子抑菌',
-    '4': '基站',
-    brand: '某觅',
-    product: 'S40',
-    first_pic: imgUrl,
-    release_time: '2024-05-02',
-    first_price: 4699,
-    product_feature: '标配',
-    is_diff: true
-  },
-  {
-    '1': '拖地功能族',
-    '3': '污水箱除臭',
-    '4': '基站',
-    brand: '某觅',
-    product: 'S40',
-    first_pic: imgUrl,
-    release_time: '2024-05-02',
-    first_price: 4699,
-    product_feature: '选配',
-    is_diff: true
-  },
-  {
-    '1': '拖地功能族',
-    '3': '机仓紫外线抑菌',
     '4': '基站',
     brand: '某觅',
     product: 'S40',
@@ -2848,18 +2604,6 @@ export const records = [
     is_diff: true
   },
   {
-    '1': '智能功能族',
-    '3': '小基站',
-    '4': '基站',
-    brand: '某沃斯',
-    product: 'T30 PRO',
-    first_pic: imgUrl,
-    release_time: '2024-02-04',
-    first_price: 3999,
-    product_feature: '❌',
-    is_diff: true
-  },
-  {
     '1': '扫地功能族',
     '2': '基站集尘',
     '3': '集尘能力',
@@ -2899,19 +2643,6 @@ export const records = [
     is_diff: false
   },
   {
-    '1': '扫地功能族',
-    '2': '基站集尘',
-    '3': '集尘紫外线抑菌',
-    '4': '基站',
-    brand: '某沃斯',
-    product: 'T30 PRO',
-    first_pic: imgUrl,
-    release_time: '2024-02-04',
-    first_price: 3999,
-    product_feature: '❌',
-    is_diff: false
-  },
-  {
     '1': '拖地功能族',
     '3': '清水箱容量',
     '4': '基站',
@@ -2938,42 +2669,6 @@ export const records = [
   {
     '1': '拖地功能族',
     '3': '电解水',
-    '4': '基站',
-    brand: '某沃斯',
-    product: 'T30 PRO',
-    first_pic: imgUrl,
-    release_time: '2024-02-04',
-    first_price: 3999,
-    product_feature: '❌',
-    is_diff: false
-  },
-  {
-    '1': '拖地功能族',
-    '3': '银离子抑菌',
-    '4': '基站',
-    brand: '某沃斯',
-    product: 'T30 PRO',
-    first_pic: imgUrl,
-    release_time: '2024-02-04',
-    first_price: 3999,
-    product_feature: '选配',
-    is_diff: true
-  },
-  {
-    '1': '拖地功能族',
-    '3': '污水箱除臭',
-    '4': '基站',
-    brand: '某沃斯',
-    product: 'T30 PRO',
-    first_pic: imgUrl,
-    release_time: '2024-02-04',
-    first_price: 3999,
-    product_feature: '❌',
-    is_diff: true
-  },
-  {
-    '1': '拖地功能族',
-    '3': '机仓紫外线抑菌',
     '4': '基站',
     brand: '某沃斯',
     product: 'T30 PRO',
@@ -3448,18 +3143,6 @@ export const records = [
     is_diff: true
   },
   {
-    '1': '智能功能族',
-    '3': '小基站',
-    '4': '基站',
-    brand: '某沃斯',
-    product: 'T50 Pro',
-    first_pic: imgUrl,
-    release_time: '2024-08-26',
-    first_price: 3999,
-    product_feature: '✅',
-    is_diff: true
-  },
-  {
     '1': '扫地功能族',
     '2': '基站集尘',
     '3': '集尘能力',
@@ -3499,19 +3182,6 @@ export const records = [
     is_diff: false
   },
   {
-    '1': '扫地功能族',
-    '2': '基站集尘',
-    '3': '集尘紫外线抑菌',
-    '4': '基站',
-    brand: '某沃斯',
-    product: 'T50 Pro',
-    first_pic: imgUrl,
-    release_time: '2024-08-26',
-    first_price: 3999,
-    product_feature: '❌',
-    is_diff: false
-  },
-  {
     '1': '拖地功能族',
     '3': '清水箱容量',
     '4': '基站',
@@ -3538,42 +3208,6 @@ export const records = [
   {
     '1': '拖地功能族',
     '3': '电解水',
-    '4': '基站',
-    brand: '某沃斯',
-    product: 'T50 Pro',
-    first_pic: imgUrl,
-    release_time: '2024-08-26',
-    first_price: 3999,
-    product_feature: '❌',
-    is_diff: false
-  },
-  {
-    '1': '拖地功能族',
-    '3': '银离子抑菌',
-    '4': '基站',
-    brand: '某沃斯',
-    product: 'T50 Pro',
-    first_pic: imgUrl,
-    release_time: '2024-08-26',
-    first_price: 3999,
-    product_feature: '选配',
-    is_diff: true
-  },
-  {
-    '1': '拖地功能族',
-    '3': '污水箱除臭',
-    '4': '基站',
-    brand: '某沃斯',
-    product: 'T50 Pro',
-    first_pic: imgUrl,
-    release_time: '2024-08-26',
-    first_price: 3999,
-    product_feature: '❌',
-    is_diff: true
-  },
-  {
-    '1': '拖地功能族',
-    '3': '机仓紫外线抑菌',
     '4': '基站',
     brand: '某沃斯',
     product: 'T50 Pro',
@@ -3622,352 +3256,143 @@ export function createTable() {
             children: [
               {
                 value: '语音交互',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '213_3',
-                hide: false
+                dimensionKey: '3'
               },
               {
                 value: '第三方音箱控制',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '2_3',
-                hide: false
+                dimensionKey: '3'
               },
               {
                 value: '视频通话',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '3_3',
-                hide: false
+                dimensionKey: '3'
               }
             ],
             dimensionKey: '1',
-            hierarchyState: 'expand',
-            nodeKey: '1_1',
-            hide: false
+            hierarchyState: 'expand'
           },
           {
             value: '智能功能族',
             children: [
               {
-                value: '地毯检测',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '15_3',
-                hide: false
-              },
-              {
                 value: '悬崖防跌落',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '16_3',
-                hide: false
-              },
-              {
-                value: '导航',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '17_3',
-                hide: false
+                dimensionKey: '3'
               },
               {
                 value: '障碍躲避',
                 children: [
                   {
                     value: '机身高度',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '199_3',
-                    hide: false
+                    dimensionKey: '3'
                   },
                   {
                     value: '越障高度',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '9_3',
-                    hide: false
-                  },
-                  {
-                    value: '避障能力',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '10_3',
-                    hide: false
+                    dimensionKey: '3'
                   }
                 ],
                 dimensionKey: '2',
-                hierarchyState: 'expand',
-                nodeKey: '1_2',
-                hide: false
-              },
-              {
-                value: '脏污检测',
-                children: [
-                  {
-                    value: '拖地闭环',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '18_3',
-                    hide: false
-                  },
-                  {
-                    value: '扫地闭环',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '20_3',
-                    hide: false
-                  }
-                ],
-                dimensionKey: '2',
-                hierarchyState: 'expand',
-                nodeKey: '3_2',
-                hide: false
+                hierarchyState: 'expand'
               }
             ],
             dimensionKey: '1',
-            hierarchyState: 'expand',
-            nodeKey: '3_1',
-            hide: false
+            hierarchyState: 'expand'
           },
           {
             value: '扫地功能族',
             children: [
               {
                 value: '吸力',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '46_3',
-                hide: false
+                dimensionKey: '3'
               },
               {
                 value: '地毯清洁',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '47_3',
-                hide: false
+                dimensionKey: '3'
               },
               {
                 value: '边刷',
                 children: [
                   {
-                    value: '边刷控速',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '33_3',
-                    hide: false
-                  },
-                  {
                     value: '边刷数量',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '34_3',
-                    hide: false
-                  },
-                  {
-                    value: '边刷抬升',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '187_3',
-                    hide: false
+                    dimensionKey: '3'
                   },
                   {
                     value: '边刷机械臂',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '186_3',
-                    hide: false
+                    dimensionKey: '3'
                   },
                   {
                     value: '边刷结构',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '198_3',
-                    hide: false
+                    dimensionKey: '3'
                   }
                 ],
                 dimensionKey: '2',
-                hierarchyState: 'expand',
-                nodeKey: '5_2',
-                hide: false
+                hierarchyState: 'expand'
               },
               {
                 value: '中滚刷',
                 children: [
                   {
                     value: '中滚刷控速',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '35_3',
-                    hide: false
-                  },
-                  {
-                    value: '中滚刷抬升',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '36_3',
-                    hide: false
+                    dimensionKey: '3'
                   },
                   {
                     value: '中滚刷结构',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '37_3',
-                    hide: false
+                    dimensionKey: '3'
                   }
                 ],
                 dimensionKey: '2',
-                hierarchyState: 'expand',
-                nodeKey: '6_2',
-                hide: false
+                hierarchyState: 'expand'
               },
               {
                 value: '机器人集尘',
                 children: [
                   {
                     value: '集尘方式',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '38_3',
-                    hide: false
+                    dimensionKey: '3'
                   },
                   {
                     value: '集尘容量',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '39_3',
-                    hide: false
-                  },
-                  {
-                    value: '尘盒干燥',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '195_3',
-                    hide: false
+                    dimensionKey: '3'
                   }
                 ],
                 dimensionKey: '2',
-                hierarchyState: 'expand',
-                nodeKey: '7_2',
-                hide: false
+                hierarchyState: 'expand'
               }
             ],
             dimensionKey: '1',
-            hierarchyState: 'expand',
-            nodeKey: '7_1',
-            hide: false
+            hierarchyState: 'expand'
           },
           {
             value: '拖地功能族',
             children: [
               {
                 value: '边角拖地',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '27_3',
-                hide: false
-              },
-              {
-                value: '机身水箱',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '97_3',
-                hide: false
-              },
-              {
-                value: '地板养护',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '192_3',
-                hide: false
+                dimensionKey: '3'
               },
               {
                 value: '热水拖地',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '209_3',
-                hide: false
+                dimensionKey: '3'
               },
               {
                 value: '拖布',
                 children: [
                   {
                     value: '拖布结构',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '21_3',
-                    hide: false
+                    dimensionKey: '3'
                   },
                   {
                     value: '拖布抬升',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '22_3',
-                    hide: false
-                  },
-                  {
-                    value: '拖地力度调节',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '24_3',
-                    hide: false
-                  },
-                  {
-                    value: '拖布自动拆卸',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '191_3',
-                    hide: false
+                    dimensionKey: '3'
                   }
                 ],
                 dimensionKey: '2',
-                hierarchyState: 'expand',
-                nodeKey: '4_2',
-                hide: false
+                hierarchyState: 'expand'
               }
             ],
             dimensionKey: '1',
-            hierarchyState: 'expand',
-            nodeKey: '5_1',
-            hide: false
+            hierarchyState: 'expand'
           }
         ],
         dimensionKey: '4',
-        hierarchyState: 'expand',
-        nodeKey: '1_4',
-        hide: false
+        hierarchyState: 'expand'
       },
       {
         value: '基站',
@@ -3980,40 +3405,24 @@ export function createTable() {
                 dimensionKey: '3'
               }
             ],
-            dimensionKey: '1'
+            dimensionKey: '1',
+            hierarchyState: 'expand'
           },
           {
             value: '智能功能族',
             children: [
               {
                 value: '自动上下水',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '211_3',
-                hide: false
+                dimensionKey: '3'
               },
               {
                 value: '基站自清洁',
                 children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '8_3',
-                hide: false
-              },
-              {
-                value: '小基站',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '193_3',
-                hide: false
+                dimensionKey: '3'
               }
             ],
             dimensionKey: '1',
-            hierarchyState: 'expand',
-            nodeKey: '4_1',
-            hide: false
+            hierarchyState: 'expand'
           },
           {
             value: '扫地功能族',
@@ -4023,126 +3432,50 @@ export function createTable() {
                 children: [
                   {
                     value: '集尘能力',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '42_3',
-                    hide: false
+                    dimensionKey: '3'
                   },
                   {
                     value: '集尘容量',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '43_3',
-                    hide: false
+                    dimensionKey: '3'
                   },
                   {
                     value: '集尘烘干',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '44_3',
-                    hide: false
-                  },
-                  {
-                    value: '集尘紫外线抑菌',
-                    children: [],
-                    dimensionKey: '3',
-                    hierarchyState: 'expand',
-                    nodeKey: '45_3',
-                    hide: false
+                    dimensionKey: '3'
                   }
                 ],
                 dimensionKey: '2',
-                hierarchyState: 'expand',
-                nodeKey: '8_2',
-                hide: false
+                hierarchyState: 'expand'
               }
             ],
             dimensionKey: '1',
-            hierarchyState: 'expand',
-            nodeKey: '8_1',
-            hide: false
+            hierarchyState: 'expand'
           },
           {
             value: '拖地功能族',
             children: [
               {
                 value: '清水箱容量',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '28_3',
-                hide: false
+                dimensionKey: '3'
               },
               {
                 value: '污水箱容量',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '29_3',
-                hide: false
-              },
-              {
-                value: '电解水',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '32_3',
-                hide: false
-              },
-              {
-                value: '银离子抑菌',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '95_3',
-                hide: false
-              },
-              {
-                value: '污水箱除臭',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '189_3',
-                hide: false
-              },
-              {
-                value: '机仓紫外线抑菌',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '190_3',
-                hide: false
+                dimensionKey: '3'
               },
               {
                 value: '热水洗拖布',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '30_3',
-                hide: false
+                dimensionKey: '3'
               },
               {
                 value: '拖布烘干',
-                children: [],
-                dimensionKey: '3',
-                hierarchyState: 'expand',
-                nodeKey: '94_3',
-                hide: false
+                dimensionKey: '3'
               }
             ],
             dimensionKey: '1',
-            hierarchyState: 'expand',
-            nodeKey: '6_1',
-            hide: false
+            hierarchyState: 'expand'
           }
         ],
         dimensionKey: '4',
-        hierarchyState: 'expand',
-        nodeKey: '2_4',
-        hide: false
+        hierarchyState: 'expand'
       }
     ],
     rows: [
@@ -4198,6 +3531,10 @@ export function createTable() {
       {
         dimensionKey: 'first_pic',
         title: '图片',
+        headerStyle: {
+          bgColor: '#fff',
+          textAlign: 'center'
+        },
         // imageAutoSizing: true, // 图片原始尺寸
         keepAspectRatio: true,
         headerType: 'image',
