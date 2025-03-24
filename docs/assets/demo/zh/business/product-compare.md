@@ -18,17 +18,35 @@ option: PivotTable#rowTree
 - `PivotTable.rowTree` 自定义行表头树
 - `indicators[x].style.bgColor` 配置某个指标内容的背景色
 
+<<<<<<< HEAD
+
+## 代码演示
+
+````javascript livedemo template=vtable
+=======
+TODO:
+弄一个沙箱，简单看效果，方便复制代码
+
 ## 代码演示
 
 ```javascript livedemo template=vtable
+const imgUrl =
+  'https://p3-heycan-hgt-sign.byteimg.com/tos-cn-i-3jr8j4ixpe/399f656fe0634bcfbe180e572d2dc8e6~tplv-3jr8j4ixpe-resize:400:400.png?lk3s=43402efa&x-expires=1773847788&x-signature=zj%2F22SPfvlM0V4SDESHVbYNzXfo%3D&quot';
+
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
 const records = [
   {
     1: '交互功能族',
     3: '语音交互',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '基础语音',
@@ -39,8 +57,13 @@ const records = [
     3: '第三方音箱控制',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '✅',
@@ -51,8 +74,13 @@ const records = [
     3: '视频通话',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '✅',
@@ -63,8 +91,13 @@ const records = [
     3: '地毯检测',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '超声波 + 视觉',
@@ -75,8 +108,13 @@ const records = [
     3: '悬崖防跌落',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '✅',
@@ -87,8 +125,13 @@ const records = [
     3: '导航',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '凸起雷达+视觉',
@@ -100,8 +143,13 @@ const records = [
     3: '机身高度',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '10.2 cm',
@@ -113,8 +161,13 @@ const records = [
     3: '越障高度',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '2 cm',
@@ -126,8 +179,13 @@ const records = [
     3: '避障能力',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '前向+侧向',
@@ -139,8 +197,13 @@ const records = [
     3: '拖地闭环',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '视觉+光学传感器',
@@ -152,8 +215,13 @@ const records = [
     3: '扫地闭环',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '❌',
@@ -164,8 +232,13 @@ const records = [
     3: '吸力',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '7000 Pa',
@@ -176,8 +249,13 @@ const records = [
     3: '地毯清洁',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '增压吸尘',
@@ -189,8 +267,13 @@ const records = [
     3: '边刷控速',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '✅',
@@ -202,8 +285,13 @@ const records = [
     3: '边刷数量',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '单',
@@ -215,8 +303,13 @@ const records = [
     3: '边刷抬升',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '❌',
@@ -228,8 +321,13 @@ const records = [
     3: '边刷机械臂',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '❌',
@@ -241,8 +339,13 @@ const records = [
     3: '边刷结构',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '普通边刷',
@@ -254,8 +357,13 @@ const records = [
     3: '中滚刷控速',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '❌',
@@ -267,8 +375,13 @@ const records = [
     3: '中滚刷抬升',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '✅',
@@ -280,8 +393,13 @@ const records = [
     3: '中滚刷结构',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '单胶刷',
@@ -293,8 +411,13 @@ const records = [
     3: '集尘方式',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '机身尘盒',
@@ -306,8 +429,13 @@ const records = [
     3: '集尘容量',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '0.35 L',
@@ -319,8 +447,13 @@ const records = [
     3: '尘盒干燥',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '❌',
@@ -331,8 +464,13 @@ const records = [
     3: '边角拖地',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '拖布外扩',
@@ -343,8 +481,13 @@ const records = [
     3: '机身水箱',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '自动补水',
@@ -355,8 +498,13 @@ const records = [
     3: '地板养护',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '❌',
@@ -367,8 +515,13 @@ const records = [
     3: '热水拖地',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '❌',
@@ -380,8 +533,13 @@ const records = [
     3: '拖布结构',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '双圆盘旋转拖布',
@@ -393,8 +551,13 @@ const records = [
     3: '拖布抬升',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '✅',
@@ -406,8 +569,13 @@ const records = [
     3: '拖地力度调节',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '❌',
@@ -419,8 +587,13 @@ const records = [
     3: '拖布自动拆卸',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '❌',
@@ -431,8 +604,13 @@ const records = [
     3: '基站控制',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '❌',
@@ -443,8 +621,13 @@ const records = [
     3: '自动上下水',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '选配',
@@ -455,8 +638,13 @@ const records = [
     3: '基站自清洁',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '❌',
@@ -468,8 +656,13 @@ const records = [
     3: '集尘能力',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '基站集尘袋',
@@ -481,8 +674,13 @@ const records = [
     3: '集尘容量',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '2.7 L',
@@ -494,8 +692,13 @@ const records = [
     3: '集尘烘干',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '❌',
@@ -506,8 +709,13 @@ const records = [
     3: '清水箱容量',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '4 L',
@@ -518,8 +726,13 @@ const records = [
     3: '污水箱容量',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '3.5 L',
@@ -530,8 +743,13 @@ const records = [
     3: '电解水',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '❌',
@@ -542,8 +760,13 @@ const records = [
     3: '热水洗拖布',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '智控热水',
@@ -554,8 +777,13 @@ const records = [
     3: '拖布烘干',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P10',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-0.png',
+=======
+    product: 'P10 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2023-08-29',
     first_price: 3999,
     product_feature: '标配',
@@ -566,8 +794,13 @@ const records = [
     3: '语音交互',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '语音大模型',
@@ -578,8 +811,13 @@ const records = [
     3: '第三方音箱控制',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '✅',
@@ -590,8 +828,13 @@ const records = [
     3: '视频通话',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '✅',
@@ -602,8 +845,13 @@ const records = [
     3: '地毯检测',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '超声波 + 视觉',
@@ -614,8 +862,13 @@ const records = [
     3: '悬崖防跌落',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '✅',
@@ -626,8 +879,13 @@ const records = [
     3: '导航',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '凸起雷达+视觉',
@@ -639,8 +897,13 @@ const records = [
     3: '机身高度',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '10.3 cm',
@@ -652,8 +915,13 @@ const records = [
     3: '越障高度',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '4 cm',
@@ -665,8 +933,13 @@ const records = [
     3: '避障能力',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '前向+侧向',
@@ -678,8 +951,13 @@ const records = [
     3: '拖地闭环',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '光学传感器',
@@ -691,8 +969,13 @@ const records = [
     3: '扫地闭环',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -703,8 +986,13 @@ const records = [
     3: '吸力',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '18500 Pa',
@@ -715,8 +1003,13 @@ const records = [
     3: '地毯清洁',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '增压吸尘',
@@ -728,8 +1021,13 @@ const records = [
     3: '边刷控速',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '✅',
@@ -741,8 +1039,13 @@ const records = [
     3: '边刷数量',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '单',
@@ -754,8 +1057,13 @@ const records = [
     3: '边刷抬升',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -767,8 +1075,13 @@ const records = [
     3: '边刷机械臂',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '✅',
@@ -780,8 +1093,13 @@ const records = [
     3: '边刷结构',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '防缠绕边刷',
@@ -793,8 +1111,13 @@ const records = [
     3: '中滚刷控速',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -806,8 +1129,13 @@ const records = [
     3: '中滚刷抬升',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '✅',
@@ -819,8 +1147,13 @@ const records = [
     3: '中滚刷结构',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '气旋导流双毛胶对刷',
@@ -832,8 +1165,13 @@ const records = [
     3: '集尘方式',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '机身尘盒',
@@ -845,8 +1183,13 @@ const records = [
     3: '集尘容量',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '0.35 L',
@@ -858,8 +1201,13 @@ const records = [
     3: '尘盒干燥',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -870,8 +1218,13 @@ const records = [
     3: '边角拖地',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '拖布外扩',
@@ -882,8 +1235,13 @@ const records = [
     3: '机身水箱',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '自动补水',
@@ -894,8 +1252,13 @@ const records = [
     3: '地板养护',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -906,8 +1269,13 @@ const records = [
     3: '热水拖地',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -919,8 +1287,13 @@ const records = [
     3: '拖布结构',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '双圆盘旋转拖布',
@@ -932,8 +1305,13 @@ const records = [
     3: '拖布抬升',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '✅',
@@ -945,8 +1323,13 @@ const records = [
     3: '拖地力度调节',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -958,8 +1341,13 @@ const records = [
     3: '拖布自动拆卸',
     4: '机器人',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -970,8 +1358,13 @@ const records = [
     3: '基站控制',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -982,8 +1375,13 @@ const records = [
     3: '自动上下水',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '选配',
@@ -994,8 +1392,13 @@ const records = [
     3: '基站自清洁',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '✅',
@@ -1007,8 +1410,13 @@ const records = [
     3: '集尘能力',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '基站集尘袋',
@@ -1020,8 +1428,13 @@ const records = [
     3: '集尘容量',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '2.5 L',
@@ -1033,8 +1446,13 @@ const records = [
     3: '集尘烘干',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -1045,8 +1463,13 @@ const records = [
     3: '清水箱容量',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '4 L',
@@ -1057,8 +1480,13 @@ const records = [
     3: '污水箱容量',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '3.5 L',
@@ -1069,8 +1497,13 @@ const records = [
     3: '电解水',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -1081,8 +1514,13 @@ const records = [
     3: '热水洗拖布',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '智控热水',
@@ -1093,8 +1531,13 @@ const records = [
     3: '拖布烘干',
     4: '基站',
     brand: '某石',
+<<<<<<< HEAD
     product: 'P20',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-1.png',
+=======
+    product: 'P20 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '标配',
@@ -1105,8 +1548,13 @@ const records = [
     3: '语音交互',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '语音大模型',
@@ -1117,8 +1565,13 @@ const records = [
     3: '第三方音箱控制',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '✅',
@@ -1129,8 +1582,13 @@ const records = [
     3: '视频通话',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '✅',
@@ -1141,8 +1599,13 @@ const records = [
     3: '地毯检测',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '超声波 + 视觉',
@@ -1153,8 +1616,13 @@ const records = [
     3: '悬崖防跌落',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '✅',
@@ -1165,8 +1633,13 @@ const records = [
     3: '导航',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '凸起雷达+视觉',
@@ -1178,8 +1651,13 @@ const records = [
     3: '机身高度',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '10.38 cm',
@@ -1191,8 +1669,13 @@ const records = [
     3: '越障高度',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '2.2 cm',
@@ -1204,8 +1687,13 @@ const records = [
     3: '避障能力',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '前向+侧向',
@@ -1217,8 +1705,13 @@ const records = [
     3: '拖地闭环',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '视觉+光学传感器',
@@ -1230,8 +1723,13 @@ const records = [
     3: '扫地闭环',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '❌',
@@ -1242,8 +1740,13 @@ const records = [
     3: '吸力',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '11000 Pa',
@@ -1254,8 +1757,13 @@ const records = [
     3: '地毯清洁',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '增压吸尘',
@@ -1267,8 +1775,13 @@ const records = [
     3: '边刷控速',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '✅',
@@ -1280,8 +1793,13 @@ const records = [
     3: '边刷数量',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '单',
@@ -1293,8 +1811,13 @@ const records = [
     3: '边刷抬升',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '✅',
@@ -1306,8 +1829,13 @@ const records = [
     3: '边刷机械臂',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '✅',
@@ -1319,8 +1847,13 @@ const records = [
     3: '边刷结构',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '防缠绕边刷',
@@ -1332,8 +1865,13 @@ const records = [
     3: '中滚刷控速',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '❌',
@@ -1345,8 +1883,13 @@ const records = [
     3: '中滚刷抬升',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '✅',
@@ -1358,8 +1901,13 @@ const records = [
     3: '中滚刷结构',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '剃刀式割毛滚刷',
@@ -1371,8 +1919,13 @@ const records = [
     3: '集尘方式',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '机身尘盒',
@@ -1384,8 +1937,13 @@ const records = [
     3: '集尘容量',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '0.3 L',
@@ -1397,8 +1955,13 @@ const records = [
     3: '尘盒干燥',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '❌',
@@ -1409,8 +1972,13 @@ const records = [
     3: '边角拖地',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '拖布外扩 + 扭屁股',
@@ -1421,8 +1989,13 @@ const records = [
     3: '机身水箱',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '自动补水',
@@ -1433,8 +2006,13 @@ const records = [
     3: '地板养护',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '❌',
@@ -1445,8 +2023,13 @@ const records = [
     3: '热水拖地',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '✅',
@@ -1458,8 +2041,13 @@ const records = [
     3: '拖布结构',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '双圆盘旋转拖布',
@@ -1471,8 +2059,13 @@ const records = [
     3: '拖布抬升',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '✅',
@@ -1484,8 +2077,13 @@ const records = [
     3: '拖地力度调节',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '❌',
@@ -1497,8 +2095,13 @@ const records = [
     3: '拖布自动拆卸',
     4: '机器人',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '❌',
@@ -1509,8 +2112,13 @@ const records = [
     3: '基站控制',
     4: '基站',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '❌',
@@ -1521,8 +2129,13 @@ const records = [
     3: '自动上下水',
     4: '基站',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '选配',
@@ -1533,8 +2146,13 @@ const records = [
     3: '基站自清洁',
     4: '基站',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '✅',
@@ -1546,8 +2164,13 @@ const records = [
     3: '集尘能力',
     4: '基站',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '基站集尘袋',
@@ -1559,8 +2182,13 @@ const records = [
     3: '集尘容量',
     4: '基站',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '3.2 L',
@@ -1572,8 +2200,13 @@ const records = [
     3: '集尘烘干',
     4: '基站',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '❌',
@@ -1584,8 +2217,13 @@ const records = [
     3: '清水箱容量',
     4: '基站',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '4.5 L',
@@ -1596,8 +2234,13 @@ const records = [
     3: '污水箱容量',
     4: '基站',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '4 L',
@@ -1608,8 +2251,13 @@ const records = [
     3: '电解水',
     4: '基站',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '❌',
@@ -1620,8 +2268,13 @@ const records = [
     3: '热水洗拖布',
     4: '基站',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '智控热水',
@@ -1632,8 +2285,13 @@ const records = [
     3: '拖布烘干',
     4: '基站',
     brand: '某觅',
+<<<<<<< HEAD
     product: 'S30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-2.png',
+=======
+    product: 'S30 Pro Ultra',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-02',
     first_price: 4299,
     product_feature: '标配',
@@ -1645,7 +2303,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '语音大模型',
@@ -1657,7 +2319,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '✅',
@@ -1669,7 +2335,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '✅',
@@ -1681,7 +2351,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '超声波 + 视觉',
@@ -1693,7 +2367,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '✅',
@@ -1705,7 +2383,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '凸起雷达+视觉',
@@ -1718,7 +2400,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '10.38 cm',
@@ -1731,7 +2417,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '2.2 cm',
@@ -1744,7 +2434,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '前向+侧向',
@@ -1757,7 +2451,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '视觉+光学传感器',
@@ -1770,7 +2468,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '❌',
@@ -1782,7 +2484,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '12000 Pa',
@@ -1794,7 +2500,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '增压吸尘',
@@ -1807,7 +2517,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '✅',
@@ -1820,7 +2534,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '单',
@@ -1833,7 +2551,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '✅',
@@ -1846,7 +2568,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '✅',
@@ -1859,7 +2585,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '防缠绕边刷',
@@ -1872,7 +2602,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '❌',
@@ -1885,7 +2619,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '✅',
@@ -1898,7 +2636,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '剃刀式割毛滚刷',
@@ -1911,7 +2653,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '机身尘盒',
@@ -1924,7 +2670,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '0.3 L',
@@ -1937,7 +2687,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '❌',
@@ -1949,7 +2703,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '拖布外扩 + 扭屁股',
@@ -1961,7 +2719,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '自动补水',
@@ -1973,7 +2735,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '❌',
@@ -1985,7 +2751,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '✅',
@@ -1998,7 +2768,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '双圆盘旋转拖布',
@@ -2011,7 +2785,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '✅',
@@ -2024,7 +2802,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '❌',
@@ -2037,7 +2819,11 @@ const records = [
     4: '机器人',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '❌',
@@ -2049,7 +2835,11 @@ const records = [
     4: '基站',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '❌',
@@ -2061,7 +2851,11 @@ const records = [
     4: '基站',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '选配',
@@ -2073,7 +2867,11 @@ const records = [
     4: '基站',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '✅',
@@ -2086,7 +2884,11 @@ const records = [
     4: '基站',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '基站集尘袋',
@@ -2099,7 +2901,11 @@ const records = [
     4: '基站',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '3.2 L',
@@ -2112,7 +2918,11 @@ const records = [
     4: '基站',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '❌',
@@ -2124,7 +2934,11 @@ const records = [
     4: '基站',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '4.5 L',
@@ -2136,7 +2950,11 @@ const records = [
     4: '基站',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '4 L',
@@ -2148,7 +2966,11 @@ const records = [
     4: '基站',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '❌',
@@ -2160,7 +2982,11 @@ const records = [
     4: '基站',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '智控热水',
@@ -2172,7 +2998,11 @@ const records = [
     4: '基站',
     brand: '某觅',
     product: 'S40',
+<<<<<<< HEAD
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-3.png',
+=======
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-05-02',
     first_price: 4699,
     product_feature: '标配',
@@ -2183,8 +3013,13 @@ const records = [
     3: '语音交互',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '基础语音',
@@ -2195,8 +3030,13 @@ const records = [
     3: '第三方音箱控制',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '✅',
@@ -2207,8 +3047,13 @@ const records = [
     3: '视频通话',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '❌',
@@ -2219,8 +3064,13 @@ const records = [
     3: '地毯检测',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '超声波',
@@ -2231,8 +3081,13 @@ const records = [
     3: '悬崖防跌落',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '✅',
@@ -2243,8 +3098,13 @@ const records = [
     3: '导航',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '凸起雷达+视觉',
@@ -2256,8 +3116,13 @@ const records = [
     3: '机身高度',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '10.4 cm',
@@ -2269,8 +3134,13 @@ const records = [
     3: '越障高度',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '2 cm',
@@ -2282,8 +3152,13 @@ const records = [
     3: '避障能力',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '前向+侧向',
@@ -2295,8 +3170,13 @@ const records = [
     3: '拖地闭环',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '光学传感器',
@@ -2308,8 +3188,13 @@ const records = [
     3: '扫地闭环',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '❌',
@@ -2320,8 +3205,13 @@ const records = [
     3: '吸力',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '11000 Pa',
@@ -2332,8 +3222,13 @@ const records = [
     3: '地毯清洁',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '增压吸尘',
@@ -2345,8 +3240,13 @@ const records = [
     3: '边刷控速',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '❌',
@@ -2358,8 +3258,13 @@ const records = [
     3: '边刷数量',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '单',
@@ -2371,8 +3276,13 @@ const records = [
     3: '边刷抬升',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '❌',
@@ -2384,8 +3294,13 @@ const records = [
     3: '边刷机械臂',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '❌',
@@ -2397,8 +3312,13 @@ const records = [
     3: '边刷结构',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '普通边刷',
@@ -2410,8 +3330,13 @@ const records = [
     3: '中滚刷控速',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '❌',
@@ -2423,8 +3348,13 @@ const records = [
     3: '中滚刷抬升',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '❌',
@@ -2436,8 +3366,13 @@ const records = [
     3: '中滚刷结构',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '毛胶滚刷',
@@ -2449,8 +3384,13 @@ const records = [
     3: '集尘方式',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '机身尘盒',
@@ -2462,8 +3402,13 @@ const records = [
     3: '集尘容量',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '0.3 L',
@@ -2475,8 +3420,13 @@ const records = [
     3: '尘盒干燥',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '❌',
@@ -2487,8 +3437,13 @@ const records = [
     3: '边角拖地',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '拖布外扩',
@@ -2499,8 +3454,13 @@ const records = [
     3: '机身水箱',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '自动补水',
@@ -2511,8 +3471,13 @@ const records = [
     3: '地板养护',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '❌',
@@ -2523,8 +3488,13 @@ const records = [
     3: '热水拖地',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '✅',
@@ -2536,8 +3506,13 @@ const records = [
     3: '拖布结构',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '双圆盘旋转拖布',
@@ -2549,8 +3524,13 @@ const records = [
     3: '拖布抬升',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '✅',
@@ -2562,8 +3542,13 @@ const records = [
     3: '拖地力度调节',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '❌',
@@ -2575,8 +3560,13 @@ const records = [
     3: '拖布自动拆卸',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '❌',
@@ -2587,8 +3577,13 @@ const records = [
     3: '基站控制',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '❌',
@@ -2599,8 +3594,13 @@ const records = [
     3: '自动上下水',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '选配',
@@ -2611,8 +3611,13 @@ const records = [
     3: '基站自清洁',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '❌',
@@ -2624,8 +3629,13 @@ const records = [
     3: '集尘能力',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '基站集尘袋',
@@ -2637,8 +3647,13 @@ const records = [
     3: '集尘容量',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '3.4 L',
@@ -2650,8 +3665,13 @@ const records = [
     3: '集尘烘干',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '❌',
@@ -2662,8 +3682,13 @@ const records = [
     3: '清水箱容量',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '4 L',
@@ -2674,8 +3699,13 @@ const records = [
     3: '污水箱容量',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '3.5 L',
@@ -2686,8 +3716,13 @@ const records = [
     3: '电解水',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '❌',
@@ -2698,8 +3733,13 @@ const records = [
     3: '热水洗拖布',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '70℃',
@@ -2710,8 +3750,13 @@ const records = [
     3: '拖布烘干',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T30',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-4.png',
+=======
+    product: 'T30 PRO',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-02-04',
     first_price: 3999,
     product_feature: '标配',
@@ -2722,8 +3767,13 @@ const records = [
     3: '语音交互',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '语音大模型',
@@ -2734,8 +3784,13 @@ const records = [
     3: '第三方音箱控制',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '✅',
@@ -2746,8 +3801,13 @@ const records = [
     3: '视频通话',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '✅',
@@ -2758,8 +3818,13 @@ const records = [
     3: '地毯检测',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '超声波 + 视觉',
@@ -2770,8 +3835,13 @@ const records = [
     3: '悬崖防跌落',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '✅',
@@ -2782,8 +3852,13 @@ const records = [
     3: '导航',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '隐藏雷达+视觉',
@@ -2795,8 +3870,13 @@ const records = [
     3: '机身高度',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '8.1 cm',
@@ -2808,8 +3888,13 @@ const records = [
     3: '越障高度',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '2 cm',
@@ -2821,8 +3906,13 @@ const records = [
     3: '避障能力',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '前向+侧向',
@@ -2834,8 +3924,13 @@ const records = [
     3: '拖地闭环',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '视觉+光学传感器',
@@ -2847,8 +3942,13 @@ const records = [
     3: '扫地闭环',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '视觉',
@@ -2859,8 +3959,13 @@ const records = [
     3: '吸力',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '15800 Pa',
@@ -2871,8 +3976,13 @@ const records = [
     3: '地毯清洁',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '增压吸尘',
@@ -2884,8 +3994,13 @@ const records = [
     3: '边刷控速',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '✅',
@@ -2897,8 +4012,13 @@ const records = [
     3: '边刷数量',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '单',
@@ -2910,8 +4030,13 @@ const records = [
     3: '边刷抬升',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -2923,8 +4048,13 @@ const records = [
     3: '边刷机械臂',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '✅',
@@ -2936,8 +4066,13 @@ const records = [
     3: '边刷结构',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '普通边刷',
@@ -2949,8 +4084,13 @@ const records = [
     3: '中滚刷控速',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -2962,8 +4102,13 @@ const records = [
     3: '中滚刷抬升',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -2975,8 +4120,13 @@ const records = [
     3: '中滚刷结构',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '毛胶滚刷',
@@ -2988,8 +4138,13 @@ const records = [
     3: '集尘方式',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '机身尘盒',
@@ -3001,8 +4156,13 @@ const records = [
     3: '集尘容量',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '0.26 L',
@@ -3014,8 +4174,13 @@ const records = [
     3: '尘盒干燥',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -3026,8 +4191,13 @@ const records = [
     3: '边角拖地',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '拖布外扩',
@@ -3038,8 +4208,13 @@ const records = [
     3: '机身水箱',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '自动补水',
@@ -3050,8 +4225,13 @@ const records = [
     3: '地板养护',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -3062,8 +4242,13 @@ const records = [
     3: '热水拖地',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -3075,8 +4260,13 @@ const records = [
     3: '拖布结构',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '双圆盘旋转拖布',
@@ -3088,8 +4278,13 @@ const records = [
     3: '拖布抬升',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '✅',
@@ -3101,8 +4296,13 @@ const records = [
     3: '拖地力度调节',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '✅',
@@ -3114,8 +4314,13 @@ const records = [
     3: '拖布自动拆卸',
     4: '机器人',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -3126,8 +4331,13 @@ const records = [
     3: '基站控制',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -3138,8 +4348,13 @@ const records = [
     3: '自动上下水',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '选配',
@@ -3150,8 +4365,13 @@ const records = [
     3: '基站自清洁',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '✅',
@@ -3163,8 +4383,13 @@ const records = [
     3: '集尘能力',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '基站集尘袋',
@@ -3176,8 +4401,13 @@ const records = [
     3: '集尘容量',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '3.4 L',
@@ -3189,8 +4419,13 @@ const records = [
     3: '集尘烘干',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -3201,8 +4436,13 @@ const records = [
     3: '清水箱容量',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '4 L',
@@ -3213,8 +4453,13 @@ const records = [
     3: '污水箱容量',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '3.5 L',
@@ -3225,8 +4470,13 @@ const records = [
     3: '电解水',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '❌',
@@ -3237,8 +4487,13 @@ const records = [
     3: '热水洗拖布',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '70℃',
@@ -3249,8 +4504,13 @@ const records = [
     3: '拖布烘干',
     4: '基站',
     brand: '某沃斯',
+<<<<<<< HEAD
     product: 'T50',
     first_pic: 'https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-5.png',
+=======
+    product: 'T50 Pro',
+    first_pic: imgUrl,
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     release_time: '2024-08-26',
     first_price: 3999,
     product_feature: '标配',
@@ -3259,11 +4519,18 @@ const records = [
 ];
 
 const option = {
+<<<<<<< HEAD
   records,
   customComputeRowHeight: args => {
     if (args?.row === 2) {
       return 100;
     }
+=======
+  container: document.getElementById(CONTAINER_ID),
+  records,
+  customComputeRowHeight: args => {
+    return 'auto';
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
   },
   rowTree: [
     {
@@ -3285,7 +4552,12 @@ const option = {
               dimensionKey: '3'
             }
           ],
+<<<<<<< HEAD
           dimensionKey: '1'
+=======
+          dimensionKey: '1',
+          hierarchyState: 'expand'
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
         },
         {
           value: '智能功能族',
@@ -3306,10 +4578,19 @@ const option = {
                   dimensionKey: '3'
                 }
               ],
+<<<<<<< HEAD
               dimensionKey: '2'
             }
           ],
           dimensionKey: '1'
+=======
+              dimensionKey: '2',
+              hierarchyState: 'expand'
+            }
+          ],
+          dimensionKey: '1',
+          hierarchyState: 'expand'
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
         },
         {
           value: '扫地功能族',
@@ -3338,7 +4619,12 @@ const option = {
                   dimensionKey: '3'
                 }
               ],
+<<<<<<< HEAD
               dimensionKey: '2'
+=======
+              dimensionKey: '2',
+              hierarchyState: 'expand'
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
             },
             {
               value: '中滚刷',
@@ -3352,7 +4638,12 @@ const option = {
                   dimensionKey: '3'
                 }
               ],
+<<<<<<< HEAD
               dimensionKey: '2'
+=======
+              dimensionKey: '2',
+              hierarchyState: 'expand'
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
             },
             {
               value: '机器人集尘',
@@ -3366,10 +4657,19 @@ const option = {
                   dimensionKey: '3'
                 }
               ],
+<<<<<<< HEAD
               dimensionKey: '2'
             }
           ],
           dimensionKey: '1'
+=======
+              dimensionKey: '2',
+              hierarchyState: 'expand'
+            }
+          ],
+          dimensionKey: '1',
+          hierarchyState: 'expand'
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
         },
         {
           value: '拖地功能族',
@@ -3394,6 +4694,7 @@ const option = {
                   dimensionKey: '3'
                 }
               ],
+<<<<<<< HEAD
               dimensionKey: '2'
             }
           ],
@@ -3401,6 +4702,18 @@ const option = {
         }
       ],
       dimensionKey: '4'
+=======
+              dimensionKey: '2',
+              hierarchyState: 'expand'
+            }
+          ],
+          dimensionKey: '1',
+          hierarchyState: 'expand'
+        }
+      ],
+      dimensionKey: '4',
+      hierarchyState: 'expand'
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     },
     {
       value: '基站',
@@ -3413,7 +4726,12 @@ const option = {
               dimensionKey: '3'
             }
           ],
+<<<<<<< HEAD
           dimensionKey: '1'
+=======
+          dimensionKey: '1',
+          hierarchyState: 'expand'
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
         },
         {
           value: '智能功能族',
@@ -3428,7 +4746,12 @@ const option = {
               dimensionKey: '3'
             }
           ],
+<<<<<<< HEAD
           dimensionKey: '1'
+=======
+          dimensionKey: '1',
+          hierarchyState: 'expand'
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
         },
         {
           value: '扫地功能族',
@@ -3449,10 +4772,19 @@ const option = {
                   dimensionKey: '3'
                 }
               ],
+<<<<<<< HEAD
               dimensionKey: '2'
             }
           ],
           dimensionKey: '1'
+=======
+              dimensionKey: '2',
+              hierarchyState: 'expand'
+            }
+          ],
+          dimensionKey: '1',
+          hierarchyState: 'expand'
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
         },
         {
           value: '拖地功能族',
@@ -3474,10 +4806,19 @@ const option = {
               dimensionKey: '3'
             }
           ],
+<<<<<<< HEAD
           dimensionKey: '1'
         }
       ],
       dimensionKey: '4'
+=======
+          dimensionKey: '1',
+          hierarchyState: 'expand'
+        }
+      ],
+      dimensionKey: '4',
+      hierarchyState: 'expand'
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     }
   ],
   rows: [
@@ -3486,8 +4827,12 @@ const option = {
       title: '模块',
       headerStyle: {
         bgColor: '#fff'
+<<<<<<< HEAD
       },
       width: 'auto'
+=======
+      }
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     },
     {
       dimensionKey: '1',
@@ -3536,10 +4881,19 @@ const option = {
       title: '图片',
       headerStyle: {
         bgColor: '#fff',
+<<<<<<< HEAD
         textAlign: 'center'
       },
       keepAspectRatio: true,
       headerType: 'image'
+=======
+        textAlign: 'center',
+        lineHeight: 200
+      },
+      keepAspectRatio: true,
+      headerType: 'image',
+      width: 'auto'
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
     },
     {
       dimensionKey: 'release_time',
@@ -3565,14 +4919,22 @@ const option = {
       cellType: 'text',
       indicatorKey: 'product_feature',
       title: 'product_feature',
+<<<<<<< HEAD
       width: '150',
+=======
+      width: 'auto',
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
       showSort: false,
       style: {
         textAlign: 'center',
         bgColor: args => {
           const record = args.table.getCellRawRecord(args?.col, args?.row)?.[0];
           if (record?.is_diff) {
+<<<<<<< HEAD
             return '#fbe9eb';
+=======
+            return '#FEE6E4';
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
           }
           return '#fff';
         }
@@ -3594,6 +4956,7 @@ const option = {
       }
     ]
   },
+<<<<<<< HEAD
   rowExpandLevel: 4,
   hideIndicatorName: true,
   rowHierarchyType: 'tree'
@@ -3602,6 +4965,15 @@ const option = {
 const container = document.getElementById(CONTAINER_ID);
 container.style.height = '800px';
 const tableInstance = new VTable.PivotTable(container, option);
+=======
+  hideIndicatorName: true,
+  rowHierarchyType: 'tree',
+  widthMode: 'autoWidth',
+  rowHierarchyIndent: 20
+};
+
+const tableInstance = new VTable.PivotTable(option);
+>>>>>>> 33d35e80f436f3253b126f2aa8894b162888e952
 
 window.tableInstance = tableInstance;
-```
+````
