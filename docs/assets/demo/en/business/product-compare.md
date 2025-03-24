@@ -1,24 +1,24 @@
 ---
 category: examples
 group: Business
-title: 产品对比表
+title: Product Compare Table
 cover: https://lf9-dp-fe-cms-tos.byteorg.com/obj/bit-cloud/VTable/preview/product-compare.png
 order: 9-11
 option: PivotTable#rowTree
 ---
 
-# 产品对比表
+# Product Compare Table
 
-扫地机器人怎么选 ❓︎ 多维度的产品配置参数对比，帮你做决定 ‼️
+How to Choose a Robotic Vacuum & Mop❓︎ Multi-dimensional Product Configuration Parameter Comparison to Help You Decide ‼️
 
-该示例通过配置 `PivotTable.rowTree` 自定义行表头树；通过 `indicators[x].style.bgColor`，将指标值不同的行背景色设置为红色，方便一眼看出不同
+This example customizes the row header tree by configuring `PivotTable.rowTree`; and sets the background color of rows with different indicator values to red using `indicators[x].style.bgColor`, making it easy to spot differences at a glance.
 
-## 关键配置
+## Key Configurations
 
-- `PivotTable.rowTree` 自定义行表头树
-- `indicators[x].style.bgColor` 配置某个指标内容的背景色
+- `PivotTable.rowTree` Customize row header dimension tree
+- `indicators[x].style.bgColor` Configure the background color of a Metirc content
 
-## 代码演示
+## Code demo
 
 ```javascript livedemo template=vtable
 const records = [
