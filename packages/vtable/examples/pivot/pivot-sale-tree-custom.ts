@@ -68,6 +68,7 @@ export function createTable() {
           {
             value: '淘宝',
             dimensionKey: 'platform',
+            levelSpan: 2,
             children: [
               {
                 value: '淘宝旗舰店',
@@ -345,6 +346,7 @@ export function createTable() {
   const tableInstance = new PivotTable(option);
 
   console.log('dataset', tableInstance.dataset);
+  console.log('tableInstance', tableInstance);
   // 只为了方便控制太调试用，不要拷贝
   window.tableInstance = tableInstance;
 }

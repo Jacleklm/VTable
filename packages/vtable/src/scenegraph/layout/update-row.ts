@@ -156,6 +156,7 @@ export function updateRow(
     // } else {
     // scene.proxy.rowUpdateDirection = 'up';
     // }
+    // dd
     console.log('rowUpdateDirection', scene.proxy.rowUpdateDirection);
     scene.proxy.updateCellGroups(scene.proxy.screenRowCount * 2);
     updateBottomFrozeCellGroups();
